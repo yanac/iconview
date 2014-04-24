@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C5F1ACD190646C300BA058A /* Button1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1ACC190646C300BA058A /* Button1@2x.png */; };
+		0C5F1ACF190646DB00BA058A /* Button2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1ACE190646DB00BA058A /* Button2@2x.png */; };
+		0C5F1AD1190646F100BA058A /* Button3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AD0190646F100BA058A /* Button3@2x.png */; };
+		0C5F1AD31906497000BA058A /* Button4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AD21906497000BA058A /* Button4@2x.png */; };
+		0C5F1AD519064AD200BA058A /* Button5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AD419064AD200BA058A /* Button5@2x.png */; };
+		0C5F1AD7190650A600BA058A /* Button6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AD6190650A600BA058A /* Button6@2x.png */; };
+		0C5F1AD9190650B900BA058A /* Button7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AD8190650B900BA058A /* Button7@2x.png */; };
+		0C5F1ADB190650C900BA058A /* Button8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1ADA190650C900BA058A /* Button8@2x.png */; };
+		0C5F1ADD190650DD00BA058A /* Button9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1ADC190650DD00BA058A /* Button9@2x.png */; };
+		0C5F1AE11906510200BA058A /* Button10@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AE01906510200BA058A /* Button10@2x.png */; };
+		0C5F1AE31906511700BA058A /* Button11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AE21906511700BA058A /* Button11@2x.png */; };
+		0C5F1AE51906512800BA058A /* Button12@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C5F1AE41906512800BA058A /* Button12@2x.png */; };
 		0C96704D18E94BFB00CF9B76 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C96704C18E94BFB00CF9B76 /* Foundation.framework */; };
 		0C96704F18E94BFB00CF9B76 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C96704E18E94BFB00CF9B76 /* CoreGraphics.framework */; };
 		0C96705118E94BFB00CF9B76 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C96705018E94BFB00CF9B76 /* UIKit.framework */; };
@@ -21,6 +33,7 @@
 		0C96706E18E94BFB00CF9B76 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C96705018E94BFB00CF9B76 /* UIKit.framework */; };
 		0C96707618E94BFB00CF9B76 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0C96707418E94BFB00CF9B76 /* InfoPlist.strings */; };
 		0C96707818E94BFB00CF9B76 /* convTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C96707718E94BFB00CF9B76 /* convTests.m */; };
+		0C96708A18E9673700CF9B76 /* BGImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C96708918E9673700CF9B76 /* BGImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +47,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C5F1ACC190646C300BA058A /* Button1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button1@2x.png"; sourceTree = "<group>"; };
+		0C5F1ACE190646DB00BA058A /* Button2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button2@2x.png"; sourceTree = "<group>"; };
+		0C5F1AD0190646F100BA058A /* Button3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button3@2x.png"; sourceTree = "<group>"; };
+		0C5F1AD21906497000BA058A /* Button4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button4@2x.png"; sourceTree = "<group>"; };
+		0C5F1AD419064AD200BA058A /* Button5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button5@2x.png"; sourceTree = "<group>"; };
+		0C5F1AD6190650A600BA058A /* Button6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button6@2x.png"; sourceTree = "<group>"; };
+		0C5F1AD8190650B900BA058A /* Button7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button7@2x.png"; sourceTree = "<group>"; };
+		0C5F1ADA190650C900BA058A /* Button8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button8@2x.png"; sourceTree = "<group>"; };
+		0C5F1ADC190650DD00BA058A /* Button9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button9@2x.png"; sourceTree = "<group>"; };
+		0C5F1AE01906510200BA058A /* Button10@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button10@2x.png"; sourceTree = "<group>"; };
+		0C5F1AE21906511700BA058A /* Button11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button11@2x.png"; sourceTree = "<group>"; };
+		0C5F1AE41906512800BA058A /* Button12@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button12@2x.png"; sourceTree = "<group>"; };
 		0C96704918E94BFB00CF9B76 /* conv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = conv.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C96704C18E94BFB00CF9B76 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0C96704E18E94BFB00CF9B76 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +78,7 @@
 		0C96707318E94BFB00CF9B76 /* convTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "convTests-Info.plist"; sourceTree = "<group>"; };
 		0C96707518E94BFB00CF9B76 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0C96707718E94BFB00CF9B76 /* convTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = convTests.m; sourceTree = "<group>"; };
+		0C96708918E9673700CF9B76 /* BGImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +152,19 @@
 		0C96705318E94BFB00CF9B76 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0C5F1ACC190646C300BA058A /* Button1@2x.png */,
+				0C5F1ACE190646DB00BA058A /* Button2@2x.png */,
+				0C5F1AD0190646F100BA058A /* Button3@2x.png */,
+				0C5F1AD21906497000BA058A /* Button4@2x.png */,
+				0C5F1AD419064AD200BA058A /* Button5@2x.png */,
+				0C5F1AD6190650A600BA058A /* Button6@2x.png */,
+				0C5F1AD8190650B900BA058A /* Button7@2x.png */,
+				0C5F1ADA190650C900BA058A /* Button8@2x.png */,
+				0C5F1ADC190650DD00BA058A /* Button9@2x.png */,
+				0C5F1AE01906510200BA058A /* Button10@2x.png */,
+				0C5F1AE21906511700BA058A /* Button11@2x.png */,
+				0C5F1AE41906512800BA058A /* Button12@2x.png */,
+				0C96708918E9673700CF9B76 /* BGImage.png */,
 				0C96705418E94BFB00CF9B76 /* conv-Info.plist */,
 				0C96705518E94BFB00CF9B76 /* InfoPlist.strings */,
 				0C96705818E94BFB00CF9B76 /* main.m */,
@@ -229,8 +268,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C96706518E94BFB00CF9B76 /* Images.xcassets in Resources */,
+				0C5F1AE31906511700BA058A /* Button11@2x.png in Resources */,
+				0C5F1ADD190650DD00BA058A /* Button9@2x.png in Resources */,
+				0C5F1ADB190650C900BA058A /* Button8@2x.png in Resources */,
+				0C5F1AD519064AD200BA058A /* Button5@2x.png in Resources */,
+				0C5F1AE11906510200BA058A /* Button10@2x.png in Resources */,
+				0C5F1AD31906497000BA058A /* Button4@2x.png in Resources */,
+				0C5F1ACF190646DB00BA058A /* Button2@2x.png in Resources */,
+				0C5F1AD1190646F100BA058A /* Button3@2x.png in Resources */,
+				0C5F1AD9190650B900BA058A /* Button7@2x.png in Resources */,
 				0C96705718E94BFB00CF9B76 /* InfoPlist.strings in Resources */,
+				0C96708A18E9673700CF9B76 /* BGImage.png in Resources */,
+				0C5F1AE51906512800BA058A /* Button12@2x.png in Resources */,
 				0C96706018E94BFB00CF9B76 /* Main.storyboard in Resources */,
+				0C5F1ACD190646C300BA058A /* Button1@2x.png in Resources */,
+				0C5F1AD7190650A600BA058A /* Button6@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +508,7 @@
 				0C96707D18E94BFB00CF9B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0C96707E18E94BFB00CF9B76 /* Build configuration list for PBXNativeTarget "convTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +517,7 @@
 				0C96708018E94BFB00CF9B76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
